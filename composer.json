@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {}
+    },
+    "require": {
+        "kdefives/oauth2-riot": "^1.0"
+    }
+}
