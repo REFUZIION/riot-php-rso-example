@@ -70,7 +70,6 @@ const RIOT_CLIENT_SECRET = 'YOUR_CLIENT_SECRET_HERE';
 
 ```
 ├── config.php           # Configuration file
-├── config.example.php   # Example configuration template
 ├── index.php           # Entry point
 ├── callback.php        # OAuth callback handler
 ├── helpers.php         # Utility functions
