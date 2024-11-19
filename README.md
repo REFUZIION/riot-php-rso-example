@@ -38,12 +38,7 @@ cd riot-php-rso-example
 composer install
 ```
 
-3. Create your configuration file:
-```bash
-cp config.example.php config.php
-```
-
-4. Update `config.php` with your credentials:
+3. Update `config.php` with your credentials:
 ```php
 const BASE_URI = 'https://your-domain.com/'; // Must use HTTPS
 const RIOT_CLIENT_ID = 'YOUR_CLIENT_ID_HERE';
