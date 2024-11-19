@@ -32,7 +32,7 @@ This configuration file contains minimal configuration settings for the example.
 client ID assigned to your application by Riot Games and YOUR_CLIENT_SECRET_HERE with the client secret.
 
 ```php
-***REMOVED***
+<?php
 const BASE_URI = 'localhost.test';
 const RIOT_CLIENT_ID = 'YOUR_CLIENT_ID_HERE';
 const RIOT_CLIENT_SECRET = 'YOUR_CLIENT_SECRET_HERE';
